@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thabiso Electrical</title>
+    <link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" href="favicon.ico">
+
+</head>
+<body>
+    <style>
+        body {
+          background-image: url('eleback.jpg');
+        }
+        </style>
+
+
+    <header>
+		<nav class="nav-container">
+			<ul class="nav-list">
+				<li class="nav-item"><a href="#home" class="nav-link">Home</a></li>
+				<li class="nav-item"><a href="#services" class="nav-link">Services</a></li>
+				<li class="nav-item"><a href="#about" class="nav-link">About Us</a></li>
+				<li class="nav-item"><a href="#contact" class="nav-link">Contact Us</a></li>
+			</ul>
+			<div class="logo">
+				<a href="#home">
+					<img src="Thabiso Logo.jpeg "  style="margin-top: -37px;"  alt="Thabiso Electrical Logo" direction="left">
+				</a>
+			</div>
+		</nav>
+	</header>
+	<main>
+		<section id="home">
+			<h1>Welcome to Thabiso Electrical</h1>
+			<p>Your trusted partner in electrical contracting services</p>
+			<button class="btn">Learn More</button>
+		</section>
+		<section id="services">
+			<h2>Our Services</h2>
+			<ul class="services-list">
+				<li>
+                    <i class="fas fa-lightbulb"></i>
+					<h3>Electrical Installations</h3>
+					<p>Expert installations for residential, commercial and industrial clients. We provide world-class services <br> in electrical installations,
+						electrical repairs,
+						electrical maintenance,
+						electrical upgrades,
+						electrical inspections,<br>
+						lighting designs,
+						backup power systems,
+						and industrial automation.
+						</p>
+					<img src="thabbacl.jpeg" style="width: 280px;" alt="electrical bg">
+					<img src="DB Box.jpeg" style="width: 210px;" style="height: -1224px;" alt="electrical bg">
+				</li>
+				<li>
+					<i class="fas fa-solar-panel"></i>
+					<h3>Solar Panel Installations</h3>
+					<p>Harness the power of renewable energy with our expert solar panel installations, designed to provide sustainable <br> and clean energy for your home or business.<br>
+
+						<br><strong>The Benefits:<br></strong> 
+						
+						- Reduce your carbon footprint and contribute to a sustainable future<br>
+						- Save money on electricity bills with renewable energy<br>
+						- Increase your property value with a modern and eco-friendly installation<br>
+						- Enjoy low maintenance and long-lasting solar panel systems<br>
+						- Take advantage of government incentives and tax credits
+						</p>
+                    <img src="solaa.jpg" style="width: 333px;" alt="Solar img ">
+					<img src="Course-Commercial-PV-Designer-Home-Page-Main-Image.jpg" style="width: 296px;" alt="Solar img ">
+				</li>
+				<li>
+					<i class="fas fa-wrench"></i>
+					<h3><strong>Electrical Maintenance</strong></h3>
+					<p><strong>Reliable, Efficient, and Safe Solutions for:</strong><br>
+						- Residential: Home electrical installations, lighting designs, and safety inspections<br>
+						- Commercial: Office electrical fit-outs, retail lighting solutions, and industrial electrical upgrades<br>
+						- Industrial: Factory electrical installations, machine automation, and process control systems<br>
+						</p>
+					<img src="Bra ISH DB.jpeg" style="width: 234px;" alt="Solar img ">
+					<img src="Electrii.jpeg" style="width: 311px;" alt="Solar img ">
+				</li>
+			</ul>
+		</section>
+		<section id="about">
+			<h2>About Us</h2>
+			<p>Thabiso Electrical is a leading electrical contracting company with a passion<br> for delivering exceptional service and quality workmanship.<br>
+				As a leading electrical contracting company, we pride ourselves on our commitment to <br> excellence, safety, and customer satisfaction.
+			</p>
+			<img src="bt us.jpg" style="width: 330px;" style="position: center;" alt="About Us Image"><br>
+			<br><h2>Our Story</h2>
+			<p>Founded on the principles of integrity, quality, and reliability, Thabiso Electrical has established <br>itself as a trusted partner for residential, commercial, and industrial clients.<br> Our team of licensed electricians and industry experts bring years of experience and expertise <br>to every project, ensuring timely completion and exceeding customer expectations.
+			</p>
+		</section>
+
+		<section id="Meet-The-Team">
+			<div class="row">
+				<div class="column">
+				  <div class="card">
+					<h2>&#10003; Meet the team</h2>
+					<img src="Bra Ishy.jpeg" alt="Bra Ishhy" style="width:235px">
+					<div class="container">
+					  <h2>Ishmael Tsamai</h2>
+					  <p class="title">CEO &amp; Founder</p>
+					  <p>&#9993; Sebatsa5@gmail.com</p>
+					  <p><button class="btn">Contact</button></p>
+					</div>
+				  </div>
+				</div>
+				<div class="row">
+					<div class="column">
+					  <div class="card">
+						<img src="IT Senior.jpg" alt="Bra Bu" style="width:235px">
+						<div class="container">
+						  <h2>Busang Tsamai</h2>
+						  <p class="title">BIS Senior</p>
+						  <p>&#9993; Tsamaiphenyo@gmail.com</p>
+						  <p><button class="btn">Contact</button></p>
+						</div>
+					  </div>
+					</div>
+
+		</section>
+
+		<section id="contact">
+			<h2>Contact Us</h2>
+			<p>Get in touch with us for all your electrical needs</p>
+			<ul class="contact-list">
+				<li><a href="mailto:sebatsa5@gmail.com"> sebatsa5@gmail.com</a></li>
+				<li><a href="tel:+27726306644">+27 72 630 6644</a></li>
+				<li><a href="(link unavailable)">42 Heron St, Centurion, 0157</a></li>
+			</ul>
+			<button class="btn">Get a Quote</button>
+			
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2024 Thabiso Electrical          | All Rights Reserved |         Made by @Tsamai Technology Inc &copy; </p>
+	</footer>
+</body>
+</html>
